@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Proacedmy
 - 👀 I’m interested in Codding, Programming, Inoovation, Robotics
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Devlopment
 - 📫 How to reach me On Email proacedmy@outlook.com
-- 😄 Pronouns: ...pythonnnnnnnnnn
+- 😄 Pronouns: ...kuch nhi
 - ⚡ Fun fact: ... programmer dont have
 
 <!---
